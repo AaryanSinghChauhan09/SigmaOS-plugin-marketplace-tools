@@ -1,6 +1,6 @@
 # SigmaOS Plugin Marketplace
 
-> Consolidated fork of omacom/omarchy-plugin-marketplace (MIT). See `SIGMAOS_FORK.md`.
+> Consolidated fork of AaryanSinghChauhan09/SigmaOS-plugin-marketplace (MIT). See `SIGMAOS_FORK.md`.
 >
 > This repo reunites the former SigmaOS-plugin-marketplace-site and
 > SigmaOS-plugin-marketplace-worker splits: `site/` is the static
