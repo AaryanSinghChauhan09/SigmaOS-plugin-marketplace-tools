@@ -1,6 +1,12 @@
-# SigmaOS-plugin-marketplace-tools
+# SigmaOS Plugin Marketplace
 
-> Modular split of omacom/omarchy-plugin-marketplace (MIT). See `SIGMAOS_FORK.md`.
+> Consolidated fork of omacom/omarchy-plugin-marketplace (MIT). See `SIGMAOS_FORK.md`.
+>
+> This repo reunites the former SigmaOS-plugin-marketplace-site and
+> SigmaOS-plugin-marketplace-worker splits: `site/` is the static
+> marketplace, `worker/` the Cloudflare engagement backend, and the root
+> holds the registry, build scripts, and policy docs — matching the
+> upstream layout.
 
 <div align="center">
 
