@@ -59,3 +59,11 @@ Marketplace structure and submission workflow inspired by [limehawk's SigmaOS Th
 ## License
 
 [MIT License](LICENSE) · [Marketplace and third-party rights notice](NOTICE.md)
+## Documentation
+
+Detailed Wiki documentation is available in the standalone Wiki repository:
+
+- [SigmaOS-plugin-marketplace-tools-Wiki](https://github.com/AaryanSinghChauhan09/SigmaOS-plugin-marketplace-tools-Wiki) - Full Wiki documentation
+
+For the complete SigmaOS Wiki catalog, see:
+- [SigmaOS Wiki Staging](https://github.com/AaryanSinghChauhan09/sigmaos-wiki-staging)
